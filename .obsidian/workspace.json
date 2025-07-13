@@ -16,8 +16,19 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "59e85ce827443917",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a071df0c5255844",
+  "active": "59e85ce827443917",
   "lastOpenFiles": [
     "Untitled.md",
     "Welcome.md"
