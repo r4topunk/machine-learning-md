@@ -25,10 +25,14 @@
             "id": "40b49f23ec3ebc7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "news/2025-07-27.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-27"
             }
           }
         ],
@@ -189,10 +193,10 @@
   },
   "active": "40b49f23ec3ebc7b",
   "lastOpenFiles": [
+    "news/rules.md",
     "2025-07-27.md.tmp.17807.1753634380948",
     "CLAUDE.md.tmp.17807.1753634288265",
     "news/2025-07-27.md",
-    "news/rules.md",
     "news",
     "The Chaos of AI Agents.md",
     "CLAUDE.md",
