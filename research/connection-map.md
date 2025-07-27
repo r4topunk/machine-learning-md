@@ -18,7 +18,11 @@ This file serves as a dynamic index of connections between topics in the machine
 - **Agent Workflows** ↔ **Task Planning** (operational)
 
 ### Development Tools
-- **Claude Code** ↔ **AI-Assisted Programming** (complementary)
+- **[[research/claude-code|Claude Code]]** ↔ **AI-Assisted Programming** (complementary)
+- **Claude Code** ↔ **[[Transformers]]** (foundational - built on transformer architecture)
+- **Claude Code** ↔ **[[Constitutional AI]]** (foundational - safety framework)
+- **Claude Code** ↔ **Cursor** (contrasting - terminal vs IDE-based approaches)
+- **Claude Code** ↔ **[[Multi-Agent Systems]]** (evolutionary - enables collaborative AI development)
 - **Cursor** ↔ **Code Generation** (implementation)
 - **Development Frameworks** ↔ **ML Libraries** (foundational)
 
@@ -30,7 +34,8 @@ This file serves as a dynamic index of connections between topics in the machine
 ## Connection Discovery Log
 
 ### Recently Identified Connections
-*Update this section as new connections are discovered*
+- **Claude Code Research Added (2025-07-27)**: Comprehensive connections to transformers, constitutional AI, and multi-agent systems
+- **Terminal-Based Development Workflow**: New category bridging development tools and AI assistance
 
 ### Pending Investigation
 *Topics that may have connections but need research*
@@ -52,9 +57,10 @@ This file serves as a dynamic index of connections between topics in the machine
 - Architecture search
 
 ### Development Ecosystem
-- AI coding assistants
+- AI coding assistants (Claude Code, Cursor, GitHub Copilot)
+- Terminal-based development workflows
 - Framework comparisons
-- Tool integrations
+- Tool integrations and MCP protocols
 - Development workflows
 - Performance optimization
 
@@ -70,7 +76,7 @@ This file serves as a dynamic index of connections between topics in the machine
 ### Entry Points by Interest
 - **Want to understand AI Agents**: Start with multi-agent systems → agent memory → coordination
 - **Interested in Neural Networks**: Begin with transformers → attention → specific architectures
-- **Focus on Development**: Explore AI coding tools → frameworks → implementation patterns
+- **Focus on Development**: Start with [[research/claude-code|Claude Code]] → explore AI coding tools → frameworks → implementation patterns
 - **Research-Oriented**: Check paper analysis → implementation guides → benchmarks
 
 ### Cross-Cluster Bridges
