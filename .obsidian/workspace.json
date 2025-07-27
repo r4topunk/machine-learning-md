@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/autogen-framework.md",
+                "file": "research/claude-code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "autogen-framework"
+              "title": "claude-code"
             }
           }
         ],
@@ -191,11 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de40d9512c0e0c68",
+  "active": "40b49f23ec3ebc7b",
   "lastOpenFiles": [
-    "research/connection-map.md",
     "research/autogen-framework.md",
+    "research/template.md",
+    "research/rules.md",
     "research/claude-code.md",
+    "research/connection-map.md",
     "research/claude-code.md.tmp.28927.1753637088155",
     "research/autogen-framework.md.tmp.28927.1753637072301",
     "news/rules.md.tmp.28927.1753637033232",
@@ -206,9 +208,7 @@
     "research.md",
     "news/2025-07-27.md",
     "CLAUDE.md.tmp.17807.1753635089681",
-    "research/template.md",
     "research/template.md.tmp.17807.1753634852125",
-    "research/rules.md",
     "research/rules.md.tmp.17807.1753634796976",
     "news/rules.md",
     "The Chaos of AI Agents.md",
