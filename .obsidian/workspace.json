@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2025-07-27"
             }
+          },
+          {
+            "id": "40b49f23ec3ebc7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a9163b4faca019d",
+  "active": "40b49f23ec3ebc7b",
   "lastOpenFiles": [
-    "2025-07-25.md",
+    "CLAUDE.md",
     "2025-07-27.md",
+    "2025-07-25.md",
     "2025-07-24.md",
     "2025-07-22.md",
     "2025-07-21.md",
