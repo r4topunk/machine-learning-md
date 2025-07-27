@@ -16,12 +16,14 @@ Before researching a new topic:
 
 #### For ML/AI Topics (General)
 ```
-Research the topic "[TOPIC_NAME]" focusing on ONLY the essentials:
-1. Core concept definition (1-2 sentences)
-2. Key applications and use cases
-3. Main learning resources (2-3 links maximum)
+Research the topic "[TOPIC_NAME]" for second brain reference:
+1. Core concept explanation (clear but not overly technical)
+2. Why it matters and key applications (3-4 main use cases)
+3. Recent developments worth knowing (2024-2025)
+4. How it connects to other topics in ML/AI
+5. Essential learning resources (3-5 quality sources)
 
-Keep response concise and focused. Avoid deep technical details, extensive subtopics, or comprehensive overviews. Provide just enough information for understanding and initial exploration.
+Aim for comprehensive understanding without excessive detail. Focus on practical knowledge and meaningful connections. Avoid deep mathematical derivations or extensive subtopic branching.
 ```
 
 #### For AI Agents Specifically
@@ -75,22 +77,33 @@ Use the existing `/news/rules.md` template for agent-focused research.
 # [Topic Name]
 
 ## Overview
-Brief 1-2 sentence explanation of the topic
+Clear explanation of what this is and why it matters (2-3 sentences)
 
-## Key Applications
-- Main use case 1
-- Main use case 2
+## Key Concepts
+- Core concept 1: brief explanation
+- Core concept 2: brief explanation
+- Core concept 3: brief explanation
+
+## Applications & Use Cases
+- Primary application: context and examples
+- Secondary application: context and examples
+- Emerging use case: potential and significance
+
+## Recent Developments
+Notable advances or changes in 2024-2025
 
 ## Related Topics
-- [[Existing Topic 1]]
-- [[Existing Topic 2]]
+- [[Foundational Topic]] - how it connects
+- [[Related Technology]] - relationship
+- [[Advanced Application]] - how it builds
 
-## Resources
-- [Main Resource](URL)
-- [Learning Resource](URL)
+## Learning Resources
+- [Primary Documentation](URL) - what it covers
+- [Tutorial/Course](URL) - learning approach
+- [Research Paper](URL) - key insights
 
 ## Tags
-#main-tag #category-tag
+#domain #technology #application-area
 ```
 
 ### Connection Discovery Template

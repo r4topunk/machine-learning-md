@@ -9,18 +9,21 @@ This document provides standardized instructions for using the ml-agent-research
 Use the ml-agent-researcher with the following prompt template:
 
 ```
-Search for recent AI agents news from the past week (around [DATE_RANGE]). Find the 3-5 most significant developments covering:
+Search for recent AI agents news from the past week (around [DATE_RANGE]). Find 5-8 significant developments covering:
 
 1. Major product releases or breakthroughs
-2. Notable research papers or studies
+2. Notable research papers or studies  
 3. Framework updates or new tools
+4. Industry developments and funding
+5. Enterprise adoption or partnerships
 
-For each item provide ONLY:
-- Title and 1-sentence description
-- Source link
-- Why it's significant (1 line)
+For each item provide:
+- Title and clear description (2-3 sentences)
+- Source link and publication
+- Why it matters for the field (context and implications)
+- Key technical details or metrics if relevant
 
-Keep responses concise and focused. Avoid lengthy explanations or technical deep-dives.
+Aim for informative summaries that provide context and significance without overwhelming detail.
 ```
 
 ### Content Categories
