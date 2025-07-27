@@ -9,21 +9,18 @@ This document provides standardized instructions for using the ml-agent-research
 Use the ml-agent-researcher with the following prompt template:
 
 ```
-Search for recent news and developments in the AI agents field from the past week (around [DATE_RANGE]). Focus on finding:
+Search for recent AI agents news from the past week (around [DATE_RANGE]). Find the 3-5 most significant developments covering:
 
-1. New research papers or breakthroughs in multi-agent systems
-2. Industry news about AI agent frameworks and tools
-3. Notable developments in agent coordination and collaboration
-4. Updates on major AI agent projects or companies
-5. Technical advances in agent architectures or capabilities
+1. Major product releases or breakthroughs
+2. Notable research papers or studies
+3. Framework updates or new tools
 
-Please provide a curated list of the most significant findings with:
-- Brief descriptions of each news item
-- Source links where available
-- Relevance to machine learning research and development
-- Focus on educational and research value
+For each item provide ONLY:
+- Title and 1-sentence description
+- Source link
+- Why it's significant (1 line)
 
-Return the findings in a format suitable for adding to a daily learning note in an Obsidian vault.
+Keep responses concise and focused. Avoid lengthy explanations or technical deep-dives.
 ```
 
 ### Content Categories

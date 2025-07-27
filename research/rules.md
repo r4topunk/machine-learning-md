@@ -16,19 +16,12 @@ Before researching a new topic:
 
 #### For ML/AI Topics (General)
 ```
-Research the topic "[TOPIC_NAME]" with focus on:
-1. Core concepts and technical foundations
-2. Recent developments and breakthroughs (2024-2025)
-3. Practical applications and use cases
-4. Key researchers, papers, and resources
-5. Connections to other ML/AI domains
-6. Learning resources (videos, tutorials, documentation)
+Research the topic "[TOPIC_NAME]" focusing on ONLY the essentials:
+1. Core concept definition (1-2 sentences)
+2. Key applications and use cases
+3. Main learning resources (2-3 links maximum)
 
-Provide findings in format suitable for Obsidian vault integration with:
-- Clear explanations for learning purposes
-- Source links for further exploration
-- Connections to related topics already covered
-- Practical implementation examples where relevant
+Keep response concise and focused. Avoid deep technical details, extensive subtopics, or comprehensive overviews. Provide just enough information for understanding and initial exploration.
 ```
 
 #### For AI Agents Specifically
@@ -82,35 +75,22 @@ Use the existing `/news/rules.md` template for agent-focused research.
 # [Topic Name]
 
 ## Overview
-Brief explanation of the topic and its significance
+Brief 1-2 sentence explanation of the topic
 
-## Key Concepts
-- Core principle 1
-- Core principle 2
-- Technical foundation
-
-## Recent Developments
-Notable advances from 2024-2025
-
-## Applications
-Real-world uses and implementations
+## Key Applications
+- Main use case 1
+- Main use case 2
 
 ## Related Topics
-- [[Existing Topic 1]] - connection explanation
-- [[Existing Topic 2]] - connection explanation
+- [[Existing Topic 1]]
+- [[Existing Topic 2]]
 
 ## Resources
-- [Resource Title](URL) - description
-- [Paper Title](URL) - description
-
-## Learning Path
-Suggested progression for understanding this topic
-
-## Implementation Examples
-Code snippets, frameworks, or tools
+- [Main Resource](URL)
+- [Learning Resource](URL)
 
 ## Tags
-#tag1 #tag2 #tag3
+#main-tag #category-tag
 ```
 
 ### Connection Discovery Template
