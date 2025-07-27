@@ -16,8 +16,9 @@ This is an Obsidian vault for documenting machine learning learnings and researc
 
 The vault follows a simple daily note structure:
 - **Daily Notes**: Files named `YYYY-MM-DD.md` containing learning resources for that day
-- **No Folders**: All notes are stored in the root directory for easy access
+- **News Folder**: `/news/` directory containing detailed AI agents research and updates
 - **Content Format**: Each note contains YouTube video embeds and links to relevant resources
+- **News Integration**: Daily notes include AI agents news summaries from corresponding news files
 
 ## Obsidian Configuration
 
@@ -36,6 +37,15 @@ When adding or organizing content:
 - Add direct links to articles, documentation, and tools
 - Keep content focused on ML/AI learning resources
 - Use the existing simple format - no complex templating needed
+
+### AI Agents News Workflow
+
+For daily AI agents news updates:
+1. **Research**: Use ml-agent-researcher with standardized prompt from `/news/rules.md`
+2. **Storage**: Create detailed news file in `/news/YYYY-MM-DD.md` with full research output
+3. **Integration**: Add concise summary to daily note under "## AI Agents News - [DATE]" section
+4. **Categories**: Include industry breakthroughs, framework updates, research developments, funding, and government adoption
+5. **Quality**: Focus on educational value, include source links, maintain neutral tone
 
 ## Note Organization
 
