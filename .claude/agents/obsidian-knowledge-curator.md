@@ -36,3 +36,7 @@ When creating connections, prioritize:
 - Practical utility for future reference and discovery
 
 Always provide specific, actionable recommendations with clear explanations of how suggested changes will improve the knowledge base's effectiveness and usability.
+
+## Notes
+
+Do not update the daily folder
