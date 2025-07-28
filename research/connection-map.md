@@ -39,6 +39,10 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Sophisticated memory architectures enabling persistent learning, shared knowledge, and context retention across agent interactions
   - *Connection*: Provides shared memory architectures, collaborative memory formation, and distributed cognition capabilities for multi-agent coordination
 
+- **[[generative-agents]]** ↔ **[[multi-agent-systems]]**
+  - *Relationship*: Social simulation systems where multiple believable agents interact in complex environments
+  - *Connection*: Emergent social behavior and community dynamics arise from individual agent interactions and coordination mechanisms
+
 ### Memory Systems Hub
 **[[agent-memory-systems]]** serves as a cognitive foundation connecting multiple AI domains:
 
@@ -56,6 +60,10 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: MARL systems requiring persistent state and learning from experience
   - *Connection*: Memory enables agents to retain learned policies, share experiences, and adapt over time
 
+- **[[generative-agents]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: Advanced memory stream architectures enabling believable human behavior simulation
+  - *Connection*: Dynamic memory retrieval, reflection mechanisms, and experience consolidation power realistic agent personalities
+
 ## Learning Progression Pathways
 
 ### Path 1: Theoretical to Practical
@@ -69,6 +77,7 @@ This document tracks relationships between research topics and learning pathways
 3. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
 4. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
 5. **[[agent-memory-systems]]** - Persistent agent capabilities and knowledge management
+6. **[[generative-agents]]** - Believable human behavior simulation and social interaction
 
 ### Path 3: Modern RL Integration  
 1. **[[neural-networks]]** - Deep learning foundations for function approximation
@@ -100,6 +109,7 @@ This document tracks relationships between research topics and learning pathways
 - **[[multi-agent-systems]]** - Foundational hub for agent coordination and strategic interactions
 - **[[autogen-framework]]** - Microsoft's enterprise multi-agent orchestration platform
 - **[[agent-memory-systems]]** - Comprehensive memory architectures for solo and multi-agent systems
+- **[[generative-agents]]** - Interactive simulacra of human behavior using LLMs with memory, reflection, and planning
 
 ## Future Research Gaps
 
@@ -119,4 +129,5 @@ This document tracks relationships between research topics and learning pathways
 - **2025-07-27**: Initial creation with multi-agent systems as foundational hub
 - **2025-07-28**: Added comprehensive reinforcement learning research split into traditional ML and agent systems perspectives, updated learning pathways and connection mappings
 - **2025-07-28**: Added agent memory systems research with connections to multi-agent systems, identified vector databases as future research gap
+- **2025-07-28**: Added generative agents research with connections to multi-agent systems and agent memory systems, updated learning pathway to include social simulation
 - **Future**: Expand as new research topics are added to the vault
