@@ -35,9 +35,26 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Foundation models (CNNs, GANs, Transformers) power intelligent agent behaviors
   - *Connection*: LLMs serve as cognitive cores for modern AI agents
 
-- **[[memory-systems]]** ↔ **[[multi-agent-systems]]**
-  - *Relationship*: Agent memory architectures for persistent learning and context retention
-  - *Connection*: Enables agents to maintain state and build upon previous interactions
+- **[[agent-memory-systems]]** ↔ **[[multi-agent-systems]]**
+  - *Relationship*: Sophisticated memory architectures enabling persistent learning, shared knowledge, and context retention across agent interactions
+  - *Connection*: Provides shared memory architectures, collaborative memory formation, and distributed cognition capabilities for multi-agent coordination
+
+### Memory Systems Hub
+**[[agent-memory-systems]]** serves as a cognitive foundation connecting multiple AI domains:
+
+**Technical Infrastructure:**
+- **[[vector-databases]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: Storage and retrieval infrastructure for high-dimensional memory representations
+  - *Connection*: Enables efficient similarity search, semantic retrieval, and scalable memory architectures
+
+**AI/ML Integration:**
+- **[[neural-networks]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: Foundation models serving as cognitive cores with external memory augmentation
+  - *Connection*: Transformers and LLMs integrate with memory systems for extended context and persistent learning
+  
+- **[[reinforcement-learning-agents]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: MARL systems requiring persistent state and learning from experience
+  - *Connection*: Memory enables agents to retain learned policies, share experiences, and adapt over time
 
 ## Learning Progression Pathways
 
@@ -51,7 +68,7 @@ This document tracks relationships between research topics and learning pathways
 2. **[[reinforcement-learning-ml]]** - Individual agent learning and decision-making foundations
 3. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
 4. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
-5. **[[memory-systems]]** - Persistent agent capabilities
+5. **[[agent-memory-systems]]** - Persistent agent capabilities and knowledge management
 
 ### Path 3: Modern RL Integration  
 1. **[[neural-networks]]** - Deep learning foundations for function approximation
@@ -82,13 +99,14 @@ This document tracks relationships between research topics and learning pathways
 - **[[reinforcement-learning-agents]]** - Multi-agent RL, MARL, and enterprise agent system applications
 - **[[multi-agent-systems]]** - Foundational hub for agent coordination and strategic interactions
 - **[[autogen-framework]]** - Microsoft's enterprise multi-agent orchestration platform
+- **[[agent-memory-systems]]** - Comprehensive memory architectures for solo and multi-agent systems
 
 ## Future Research Gaps
 
 ### Identified Opportunities
 - **[[game-theory]]** - Not yet researched but fundamental to MAS
 - **[[distributed-systems]]** - Infrastructure perspective on agent coordination
-- **[[memory-systems]]** - Architectural patterns for agent memory
+- **[[vector-databases]]** - Technical infrastructure for memory systems and knowledge storage
 
 ### Integration Needs
 - Connection between existing AutoGen research and broader MAS theory
@@ -100,4 +118,5 @@ This document tracks relationships between research topics and learning pathways
 ## Update History
 - **2025-07-27**: Initial creation with multi-agent systems as foundational hub
 - **2025-07-28**: Added comprehensive reinforcement learning research split into traditional ML and agent systems perspectives, updated learning pathways and connection mappings
+- **2025-07-28**: Added agent memory systems research with connections to multi-agent systems, identified vector databases as future research gap
 - **Future**: Expand as new research topics are added to the vault

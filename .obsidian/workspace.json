@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/reinforcement-learning-ml.md",
+                "file": "research/agent-memory-systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reinforcement-learning-ml"
+              "title": "agent-memory-systems"
             }
           }
         ],
@@ -193,13 +193,19 @@
   },
   "active": "40b49f23ec3ebc7b",
   "lastOpenFiles": [
+    "research/reinforcement-learning-ml.md",
+    "2025-07-28.md",
+    "2025-07-28.md.tmp.54702.1753706993155",
+    "research/connection-map.md.tmp.54702.1753706971413",
+    "research/connection-map.md.tmp.54702.1753706953073",
+    "research/connection-map.md.tmp.54702.1753706939560",
+    "research/agent-memory-systems.md",
     "research/reinforcement-learning-agents.md",
     "research/reinforcement-learning.md",
     "research/multi-agent-systems.md",
     "research/claude-code.md",
     "research/connection-map.md.tmp.54702.1753705877513",
     "research/connection-map.md.tmp.54702.1753705868648",
-    "research/reinforcement-learning-ml.md",
     "research/connection-map.md",
     "research/autogen-framework.md",
     "research/template.md",
@@ -208,12 +214,8 @@
     "research/autogen-framework.md.tmp.28927.1753637072301",
     "news/rules.md.tmp.28927.1753637033232",
     "research/rules.md.tmp.28927.1753637013718",
-    "research/connection-map.md.tmp.28927.1753636485623",
-    "research/connection-map.md.tmp.28927.1753636475011",
-    "research/connection-map.md.tmp.28927.1753636469649",
     "research.md",
     "news/2025-07-27.md",
-    "CLAUDE.md.tmp.17807.1753635089681",
     "news/rules.md",
     "The Chaos of AI Agents.md",
     "CLAUDE.md",
@@ -226,7 +228,6 @@
     "2025-07-16.md",
     "2025-07-15.md",
     "2025-07-12.md",
-    "2025-07-13.md",
-    "2025-07-14.md"
+    "2025-07-13.md"
   ]
 }
