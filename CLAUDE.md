@@ -15,7 +15,7 @@ This is an Obsidian vault for documenting machine learning learnings and researc
 ## Vault Structure
 
 The vault follows a simple daily note structure with organized research:
-- **Daily Notes**: Files named `YYYY-MM-DD.md` containing learning resources for that day
+- **Daily Notes**: Files named `YYYY-MM-DD.md` in the `/daily/` directory containing learning resources for that day
 - **News Folder**: `/news/` directory containing detailed AI agents research and updates
 - **Research Folder**: `/research/` directory for structured topic analysis and connection mapping
 - **Content Format**: Each note contains YouTube video embeds and links to relevant resources
@@ -33,7 +33,7 @@ The vault uses standard Obsidian features:
 ## Working with Content
 
 When adding or organizing content:
-- Follow the daily note naming convention (`YYYY-MM-DD.md`)
+- Follow the daily note naming convention (`YYYY-MM-DD.md`) in the `/daily/` directory
 - Include descriptive titles for YouTube videos using the `![Title](URL)` format
 - Add direct links to articles, documentation, and tools
 - Keep content focused on ML/AI learning resources
