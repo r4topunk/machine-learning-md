@@ -39,6 +39,10 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Sophisticated memory architectures enabling persistent learning, shared knowledge, and context retention across agent interactions
   - *Connection*: Provides shared memory architectures, collaborative memory formation, and distributed cognition capabilities for multi-agent coordination
 
+- **[[agent-design]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: Agent architecture integrates memory systems as core cognitive components
+  - *Connection*: Memory architectures (working, long-term, episodic) form essential components of modern agent cognitive systems
+
 - **[[generative-agents]]** ↔ **[[multi-agent-systems]]**
   - *Relationship*: Social simulation systems where multiple believable agents interact in complex environments
   - *Connection*: Emergent social behavior and community dynamics arise from individual agent interactions and coordination mechanisms
@@ -46,6 +50,14 @@ This document tracks relationships between research topics and learning pathways
 - **[[multi-agent-orchestration]]** ↔ **[[multi-agent-systems]]**
   - *Relationship*: Advanced coordination layer providing centralized management and workflow orchestration for multi-agent systems
   - *Connection*: Builds on MAS foundations with production-ready frameworks like AutoGen, CrewAI, and LangGraph for enterprise deployment
+
+- **[[agent-connection-synthesis]]** ↔ **[[multi-agent-orchestration]]**
+  - *Relationship*: Practical implementation guide connecting orchestration theory with prompting strategies and Claude Code integration
+  - *Connection*: Bridges technical protocols, mental models, and strategic thinking frameworks for building real agent connection systems
+
+- **[[agent-design]]** ↔ **[[multi-agent-systems]]**
+  - *Relationship*: Individual agent architecture and design principles forming the foundation for multi-agent coordination
+  - *Connection*: Comprehensive framework covering cognitive architectures, behavioral design, and capability specialization for robust agent construction
 
 ### Memory Systems Hub
 **[[agent-memory-systems]]** serves as a cognitive foundation connecting multiple AI domains:
@@ -72,17 +84,19 @@ This document tracks relationships between research topics and learning pathways
 
 ### Path 1: Theoretical to Practical
 1. **[[multi-agent-systems]]** - Core concepts and foundations
-2. **[[autogen-framework]]** - Practical implementation platform
-3. **Enterprise Applications** - Real-world deployment patterns
+2. **[[multi-agent-orchestration]]** - Production orchestration frameworks 
+3. **[[agent-connection-synthesis]]** - Practical implementation and prompting strategies
+4. **Enterprise Applications** - Real-world deployment patterns
 
 ### Path 2: AI/ML Integration
 1. **[[neural-networks]]** - Foundation model understanding
 2. **[[reinforcement-learning-ml]]** - Individual agent learning and decision-making foundations
-3. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
-4. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
-5. **[[multi-agent-orchestration]]** - Production orchestration frameworks and enterprise deployment
-6. **[[agent-memory-systems]]** - Persistent agent capabilities and knowledge management
-7. **[[generative-agents]]** - Believable human behavior simulation and social interaction
+3. **[[agent-design]]** - Individual agent architecture and cognitive systems
+4. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
+5. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
+6. **[[multi-agent-orchestration]]** - Production orchestration frameworks and enterprise deployment
+7. **[[agent-memory-systems]]** - Persistent agent capabilities and knowledge management
+8. **[[generative-agents]]** - Believable human behavior simulation and social interaction
 
 ### Path 3: Modern RL Integration  
 1. **[[neural-networks]]** - Deep learning foundations for function approximation
@@ -116,6 +130,8 @@ This document tracks relationships between research topics and learning pathways
 - **[[agent-memory-systems]]** - Comprehensive memory architectures for solo and multi-agent systems
 - **[[generative-agents]]** - Interactive simulacra of human behavior using LLMs with memory, reflection, and planning
 - **[[multi-agent-orchestration]]** - Advanced coordination frameworks and production deployment patterns for multi-agent systems
+- **[[agent-connection-synthesis]]** - Comprehensive synthesis connecting theory, practice, Claude Code integration, and strategic thinking for agent systems
+- **[[agent-design]]** - Complete framework for individual agent architecture including cognitive systems, behavioral design, and capability specialization
 
 ## Future Research Gaps
 
@@ -137,4 +153,6 @@ This document tracks relationships between research topics and learning pathways
 - **2025-07-28**: Added agent memory systems research with connections to multi-agent systems, identified vector databases as future research gap
 - **2025-07-28**: Added generative agents research with connections to multi-agent systems and agent memory systems, updated learning pathway to include social simulation
 - **2025-07-28**: Added multi-agent orchestration research connecting production frameworks with foundational MAS theory, updated learning pathways to include enterprise deployment
+- **2025-07-28**: Added agent connection synthesis research integrating technical protocols, Claude Code capabilities, prompting strategies, and mental models for practical implementation
+- **2025-07-28**: Added comprehensive agent design research covering architecture patterns, cognitive systems, behavioral frameworks, and capability specialization through parallel research coordination
 - **Future**: Expand as new research topics are added to the vault
