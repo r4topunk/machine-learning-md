@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d97e243c418f8a27",
+  "active": "de40d9512c0e0c68",
   "lastOpenFiles": [
+    "news/rules.md.tmp.71327.1753709454193",
+    "news/rules.md.tmp.71327.1753709441626",
     "daily/2025-07-28.md",
     "2025-07-28.md",
     "news/2025-07-28.md",
@@ -202,7 +204,6 @@
     "research/rules.md",
     "research/claude-code.md.tmp.28927.1753637088155",
     "research/autogen-framework.md.tmp.28927.1753637072301",
-    "news/rules.md.tmp.28927.1753637033232",
     "research.md",
     "news/2025-07-27.md",
     "news/rules.md",
@@ -212,7 +213,6 @@
     "daily/2025-07-24.md",
     "daily/2025-07-22.md",
     "daily/2025-07-21.md",
-    "daily/2025-07-17.md",
-    "daily/2025-07-16.md"
+    "daily/2025-07-17.md"
   ]
 }
