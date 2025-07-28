@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d97e243c418f8a27",
+  "active": "5a071df0c5255844",
   "lastOpenFiles": [
+    "research/connection-map.md.tmp.87786.1753741626125",
+    "research/multi-agent-orchestration.md",
     "news/2025-07-28.md",
     "research/connection-map.md.tmp.75264.1753710991411",
     "research/connection-map.md.tmp.75264.1753710963238",
@@ -211,7 +213,6 @@
     "CLAUDE.md",
     "daily/2025-07-25.md",
     "daily/2025-07-24.md",
-    "daily/2025-07-22.md",
-    "daily/2025-07-21.md"
+    "daily/2025-07-22.md"
   ]
 }

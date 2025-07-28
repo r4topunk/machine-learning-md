@@ -43,6 +43,10 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Social simulation systems where multiple believable agents interact in complex environments
   - *Connection*: Emergent social behavior and community dynamics arise from individual agent interactions and coordination mechanisms
 
+- **[[multi-agent-orchestration]]** ↔ **[[multi-agent-systems]]**
+  - *Relationship*: Advanced coordination layer providing centralized management and workflow orchestration for multi-agent systems
+  - *Connection*: Builds on MAS foundations with production-ready frameworks like AutoGen, CrewAI, and LangGraph for enterprise deployment
+
 ### Memory Systems Hub
 **[[agent-memory-systems]]** serves as a cognitive foundation connecting multiple AI domains:
 
@@ -76,8 +80,9 @@ This document tracks relationships between research topics and learning pathways
 2. **[[reinforcement-learning-ml]]** - Individual agent learning and decision-making foundations
 3. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
 4. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
-5. **[[agent-memory-systems]]** - Persistent agent capabilities and knowledge management
-6. **[[generative-agents]]** - Believable human behavior simulation and social interaction
+5. **[[multi-agent-orchestration]]** - Production orchestration frameworks and enterprise deployment
+6. **[[agent-memory-systems]]** - Persistent agent capabilities and knowledge management
+7. **[[generative-agents]]** - Believable human behavior simulation and social interaction
 
 ### Path 3: Modern RL Integration  
 1. **[[neural-networks]]** - Deep learning foundations for function approximation
@@ -110,6 +115,7 @@ This document tracks relationships between research topics and learning pathways
 - **[[autogen-framework]]** - Microsoft's enterprise multi-agent orchestration platform
 - **[[agent-memory-systems]]** - Comprehensive memory architectures for solo and multi-agent systems
 - **[[generative-agents]]** - Interactive simulacra of human behavior using LLMs with memory, reflection, and planning
+- **[[multi-agent-orchestration]]** - Advanced coordination frameworks and production deployment patterns for multi-agent systems
 
 ## Future Research Gaps
 
@@ -130,4 +136,5 @@ This document tracks relationships between research topics and learning pathways
 - **2025-07-28**: Added comprehensive reinforcement learning research split into traditional ML and agent systems perspectives, updated learning pathways and connection mappings
 - **2025-07-28**: Added agent memory systems research with connections to multi-agent systems, identified vector databases as future research gap
 - **2025-07-28**: Added generative agents research with connections to multi-agent systems and agent memory systems, updated learning pathway to include social simulation
+- **2025-07-28**: Added multi-agent orchestration research connecting production frameworks with foundational MAS theory, updated learning pathways to include enterprise deployment
 - **Future**: Expand as new research topics are added to the vault
