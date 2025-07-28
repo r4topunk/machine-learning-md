@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/claude-code.md",
+                "file": "research/reinforcement-learning-ml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude-code"
+              "title": "reinforcement-learning-ml"
             }
           }
         ],
@@ -193,12 +193,17 @@
   },
   "active": "40b49f23ec3ebc7b",
   "lastOpenFiles": [
-    "research/connection-map.md",
+    "research/reinforcement-learning-agents.md",
+    "research/reinforcement-learning.md",
     "research/multi-agent-systems.md",
+    "research/claude-code.md",
+    "research/connection-map.md.tmp.54702.1753705877513",
+    "research/connection-map.md.tmp.54702.1753705868648",
+    "research/reinforcement-learning-ml.md",
+    "research/connection-map.md",
     "research/autogen-framework.md",
     "research/template.md",
     "research/rules.md",
-    "research/claude-code.md",
     "research/claude-code.md.tmp.28927.1753637088155",
     "research/autogen-framework.md.tmp.28927.1753637072301",
     "news/rules.md.tmp.28927.1753637033232",
@@ -209,8 +214,6 @@
     "research.md",
     "news/2025-07-27.md",
     "CLAUDE.md.tmp.17807.1753635089681",
-    "research/template.md.tmp.17807.1753634852125",
-    "research/rules.md.tmp.17807.1753634796976",
     "news/rules.md",
     "The Chaos of AI Agents.md",
     "CLAUDE.md",
@@ -224,8 +227,6 @@
     "2025-07-15.md",
     "2025-07-12.md",
     "2025-07-13.md",
-    "2025-07-14.md",
-    "test note.md",
-    "Welcome.md"
+    "2025-07-14.md"
   ]
 }

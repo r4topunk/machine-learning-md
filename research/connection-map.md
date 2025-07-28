@@ -23,9 +23,13 @@ This document tracks relationships between research topics and learning pathways
   - *Connection*: Consensus algorithms and fault tolerance enable reliable agent interactions
 
 **AI/ML Domains:**
-- **[[reinforcement-learning]]** ↔ **[[multi-agent-systems]]**
-  - *Relationship*: Learning algorithms enabling agent adaptation and improvement
-  - *Connection*: Multi-agent reinforcement learning (MARL) extends RL to coordinated environments
+- **[[reinforcement-learning-ml]]** ↔ **[[multi-agent-systems]]**
+  - *Relationship*: Traditional RL provides individual agent learning foundations
+  - *Connection*: Core concepts like MDPs and value functions enable agent decision-making
+  
+- **[[reinforcement-learning-agents]]** ↔ **[[multi-agent-systems]]**
+  - *Relationship*: MARL directly enables coordinated multi-agent learning and strategic interactions
+  - *Connection*: CTDE paradigm and communication protocols bridge individual RL to collaborative agent systems
   
 - **[[neural-networks]]** ↔ **[[multi-agent-systems]]**
   - *Relationship*: Foundation models (CNNs, GANs, Transformers) power intelligent agent behaviors
@@ -44,11 +48,19 @@ This document tracks relationships between research topics and learning pathways
 
 ### Path 2: AI/ML Integration
 1. **[[neural-networks]]** - Foundation model understanding
-2. **[[reinforcement-learning]]** - Individual agent learning
-3. **[[multi-agent-systems]]** - Coordinated multi-agent learning
-4. **[[memory-systems]]** - Persistent agent capabilities
+2. **[[reinforcement-learning-ml]]** - Individual agent learning and decision-making foundations
+3. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
+4. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
+5. **[[memory-systems]]** - Persistent agent capabilities
 
-### Path 3: Systems Perspective
+### Path 3: Modern RL Integration  
+1. **[[neural-networks]]** - Deep learning foundations for function approximation
+2. **[[transformers]]** - Sequence modeling and attention mechanisms for RL
+3. **[[reinforcement-learning-ml]]** - Core RL algorithms enhanced with deep learning
+4. **[[reinforcement-learning-agents]]** - MARL with LLM integration and enterprise applications
+5. **LLM Integration** - RLHF and advanced AI alignment techniques
+
+### Path 4: Systems Perspective
 1. **[[distributed-systems]]** - Infrastructure foundations
 2. **[[multi-agent-systems]]** - Agent coordination mechanisms
 3. **[[game-theory]]** - Strategic interaction modeling
@@ -65,19 +77,27 @@ This document tracks relationships between research topics and learning pathways
 - **Human-AI Collaboration**: MAS + HCI + Cognitive Science
 - **Scalable Coordination**: MAS + Cloud Computing + Edge AI
 
+## Completed Research Topics
+- **[[reinforcement-learning-ml]]** - Traditional RL concepts, applications, and foundations for machine learning
+- **[[reinforcement-learning-agents]]** - Multi-agent RL, MARL, and enterprise agent system applications
+- **[[multi-agent-systems]]** - Foundational hub for agent coordination and strategic interactions
+- **[[autogen-framework]]** - Microsoft's enterprise multi-agent orchestration platform
+
 ## Future Research Gaps
 
 ### Identified Opportunities
 - **[[game-theory]]** - Not yet researched but fundamental to MAS
 - **[[distributed-systems]]** - Infrastructure perspective on agent coordination
 - **[[memory-systems]]** - Architectural patterns for agent memory
-- **[[reinforcement-learning]]** - Multi-agent learning dynamics
 
 ### Integration Needs
 - Connection between existing AutoGen research and broader MAS theory
 - Linking neural network architectures to agent cognitive capabilities
 - Bridging enterprise frameworks with academic research foundations
+- Exploring transformer integration with RL for enhanced agent capabilities
+- Connecting traditional RL foundations to modern agent-based applications
 
 ## Update History
 - **2025-07-27**: Initial creation with multi-agent systems as foundational hub
+- **2025-07-28**: Added comprehensive reinforcement learning research split into traditional ML and agent systems perspectives, updated learning pathways and connection mappings
 - **Future**: Expand as new research topics are added to the vault
