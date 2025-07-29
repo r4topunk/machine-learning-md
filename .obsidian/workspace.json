@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-07-29.md",
+                "file": "research/agentsnet-coordination-reasoning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-29"
+              "title": "agentsnet-coordination-reasoning"
             }
           }
         ]
@@ -178,12 +178,12 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "news/2025-07-29.md",
     "research/core-agent-architectures-2025-07-29.md",
     "research/agentsnet-coordination-reasoning.md",
     "research/blackboard-architecture-llm-agents.md",
     "research/sciborg-state-memory-agents.md",
     "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
-    "news/2025-07-29.md",
     "news/2025-07-29.md.tmp.27784.1753799593471",
     "news/2025-07-29.md.tmp.27784.1753799345045",
     "news/2025-07-27.md",
