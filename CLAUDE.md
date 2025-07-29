@@ -17,7 +17,7 @@ This is an Obsidian vault for documenting machine learning learnings and researc
 The vault follows a simple daily note structure with organized research:
 - **Daily Notes**: Files named `YYYY-MM-DD.md` in the `/daily/` directory containing learning resources for that day
 - **News Folder**: `/news/` directory containing detailed AI agents research and updates
-- **Research Folder**: `/research/` directory for structured topic analysis and connection mapping
+- **Research Folder**: `/research/` directory for structured topic analysis
 - **Content Format**: Each note contains YouTube video embeds and links to relevant resources
 - **News Integration**: Daily notes include AI agents news summaries from corresponding news files
 
@@ -54,7 +54,7 @@ For structured topic research and analysis:
 1. **Discovery**: Follow `/research/rules.md` methodology to search existing content and identify connections
 2. **Research**: Use appropriate research agents (ml-agent-researcher for AI topics, general-purpose for others)
 3. **Documentation**: Create comprehensive research files using `/research/template.md` format
-4. **Connection Mapping**: Update `/research/connection-map.md` with new topic relationships
+4. **Topic Relationships**: Identify and document connections between research topics
 5. **Integration**: Reference research files from daily notes using `[[research/topic-name]]` format
 6. **Maintenance**: Update research files when new developments or connections are discovered
 
@@ -62,8 +62,8 @@ For structured topic research and analysis:
 
 Content is organized chronologically by date with structured research support:
 - **Daily Notes**: Chronological organization for tracking learning progression over time
-- **Research Files**: Topic-based organization for deep analysis and connection mapping
-- **Natural Discovery**: Related topics through Obsidian's linking features and research connections
+- **Research Files**: Topic-based organization for deep analysis
+- **Natural Discovery**: Related topics through Obsidian's linking features
 - **Flexible Structure**: Simple daily notes with optional deep-dive research when needed
 
 ## Common Topics Covered
