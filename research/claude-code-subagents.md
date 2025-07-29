@@ -231,6 +231,13 @@ Detailed system prompt defining:
 4. **Monitor Performance**: Track token usage and adjust subagent lifecycle accordingly
 5. **Iterate and Refine**: Use community examples as starting points, customize for specific needs
 
+## Related Topics
+
+- [[claude-code]] - parent development environment and platform
+- [[multi-agent-orchestration]] - orchestration patterns using subagents  
+- [[agent-design]] - individual agent architecture principles
+- [[context-engineering]] - context optimization in subagent workflows
+
 ## Conclusion
 
 Claude Code subagents represent a mature and sophisticated approach to AI-assisted development that successfully balances specialization with coordination. The architecture's emphasis on modularity, parallel processing, and context isolation enables significant performance improvements while maintaining Anthropic's core design philosophy of simplicity and flexibility.

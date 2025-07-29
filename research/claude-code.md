@@ -42,8 +42,10 @@ Claude Code is Anthropic's AI-powered command-line interface designed for termin
 - [[cursor-ide]] - fastest alternative but with less terminal integration
 - [[github-copilot]] - most widely adopted alternative with ecosystem integration
 - [[multi-agent-orchestration]] - production strategies for coordinated AI systems
-- [[agent-design]] - fundamental principles for designing effective AI agents
+- [[agent-design]] - Claude Code as development environment for agent architectures
+- [[agent-memory-systems]] - development workflows for memory system implementation
 - [[agent-connection-synthesis]] - methodologies for optimizing inter-agent communication
+- [[context-engineering]] - Claude Code's built-in context optimization capabilities
 - [[autogen-framework]] - Microsoft's multi-agent framework perfect for Claude Code development
 
 ## Learning Resources

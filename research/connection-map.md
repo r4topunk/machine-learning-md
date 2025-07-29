@@ -84,6 +84,22 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Development environment integration for agent system implementation
   - *Connection*: Practical development workflows bridge orchestration theory with hands-on implementation patterns
 
+- **[[claude-code-subagents]]** ↔ **[[claude-code]]**
+  - *Relationship*: Specialized multi-agent architecture within Claude Code for domain-specific task delegation
+  - *Connection*: Advanced orchestrator-worker patterns enabling parallel processing and context isolation for complex development workflows
+
+- **[[claude-code-subagents]]** ↔ **[[multi-agent-orchestration]]**
+  - *Relationship*: Production-ready implementation of multi-agent coordination within development environments
+  - *Connection*: Real-world orchestration patterns with performance metrics showing 90.2% improvements over single-agent systems
+
+- **[[claude-code-subagents]]** ↔ **[[agent-design]]**
+  - *Relationship*: Practical implementation of agent architecture principles within Claude Code development environment
+  - *Connection*: Domain-specific specialization, context isolation, and tool access patterns demonstrating modern agent design principles
+
+- **[[claude-code-subagents]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: Context isolation and independent memory management for specialized agent tasks
+  - *Connection*: Each subagent maintains independent context windows and memory state for domain-specific expertise
+
 ### Memory Systems Hub
 **[[agent-memory-systems]]** serves as a cognitive foundation connecting multiple AI domains:
 
@@ -159,6 +175,8 @@ This document tracks relationships between research topics and learning pathways
 - **[[agent-design]]** - Complete framework for individual agent architecture including cognitive systems, behavioral design, and capability specialization
 - **[[context-engineering]]** - Systematic optimization of information flow and delivery to AI systems with compression and memory management
 - **[[python-agent-modeling]]** - Framework patterns and implementations for context-aware Python agents with sophisticated memory systems
+- **[[claude-code]]** - Comprehensive analysis of Claude Code development environment with agent-oriented features and multi-modal capabilities
+- **[[claude-code-subagents]]** - Specialized multi-agent architecture within Claude Code enabling domain-specific task delegation with context isolation and parallel processing
 
 ## Future Research Gaps
 
@@ -185,4 +203,5 @@ This document tracks relationships between research topics and learning pathways
 - **2025-07-28**: Added comprehensive agent design research covering architecture patterns, cognitive systems, behavioral frameworks, and capability specialization through parallel research coordination
 - **2025-07-29**: Structural improvements - consolidated reinforcement-learning-ml.md into reinforcement-learning.md, added bidirectional connections between agent-design and multi-agent-systems, established framework-theory bridges (AutoGen-agent research, Claude Code-orchestration), added agent-connection-synthesis to generative-agents connections, updated learning pathways to reflect consolidated RL structure
 - **2025-07-29**: Added context engineering and Python agent modeling research with comprehensive cross-connections to existing agent systems, memory architectures, and orchestration frameworks
+- **2025-07-29**: Added Claude Code and Claude Code subagents research with comprehensive connections to multi-agent orchestration, agent design, and memory systems - establishing framework-theory bridges for practical development environment integration
 - **Future**: Expand as new research topics are added to the vault

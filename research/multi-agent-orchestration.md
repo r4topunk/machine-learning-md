@@ -25,8 +25,10 @@ Multi-agent orchestration refers to the coordination and management of multiple 
 - **CrewAI Growth**: Simplified role-based orchestration gaining traction in startup and rapid prototyping environments
 
 ## Related Topics
-- [[AI Agents]] - foundational agent concepts and capabilities
-- [[Multi-Agent Systems]] - broader context of agent interaction and coordination
+- [[agent-design]] - foundational agent concepts and capabilities
+- [[multi-agent-systems]] - broader context of agent interaction and coordination
+- [[autogen-framework]] - Microsoft's enterprise-grade orchestration framework
+- [[agent-connection-synthesis]] - synthesis of agent interaction patterns and connections
 - [[Workflow Automation]] - process management and task orchestration principles
 - [[Distributed Systems]] - architectural patterns for coordinated computing
 - [[LangChain]] - framework ecosystem supporting agent orchestration tools

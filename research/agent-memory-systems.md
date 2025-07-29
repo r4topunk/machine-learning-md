@@ -124,6 +124,8 @@ Agent memory systems are sophisticated cognitive architectures that enable AI ag
 - [[vector-databases]] - Technical infrastructure for efficient storage and retrieval of high-dimensional memory embeddings
 - [[knowledge-graphs]] - Structured knowledge representation enabling semantic memory organization and relationship modeling
 - [[attention-mechanisms]] - Neural attention systems used for memory encoding, retrieval, and relevance determination
+- [[context-engineering]] - Information architecture optimization for memory systems
+- [[python-agent-modeling]] - Practical Python implementation patterns
 
 ## Learning Resources
 - [Memory-Augmented Neural Networks](https://arxiv.org/abs/1410.3916) - Foundational paper introducing differentiable neural computers and external memory mechanisms
