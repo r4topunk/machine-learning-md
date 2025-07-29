@@ -178,12 +178,17 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "research/core-agent-architectures-2025-07-29.md",
+    "research/agentsnet-coordination-reasoning.md",
+    "research/blackboard-architecture-llm-agents.md",
+    "research/sciborg-state-memory-agents.md",
+    "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
+    "news/2025-07-29.md",
     "news/2025-07-29.md.tmp.27784.1753799593471",
     "news/2025-07-29.md.tmp.27784.1753799345045",
     "news/2025-07-27.md",
     "research/python-agent-modeling.md",
     "daily/2025-07-29.md",
-    "news/2025-07-29.md",
     "news/2025-07-29-links-tracking.md",
     "research/connection-map.md.tmp.36605.1753790636910",
     "research/context-engineering.md",
@@ -197,8 +202,6 @@
     "analysis_report.md",
     "research/reinforcement-learning.md.tmp.87786.1753746316582",
     "research/neural-networks.md.tmp.87786.1753746296088",
-    "daily/2025-07-13.md.tmp.87786.1753746253279",
-    "research/claude-code.md.tmp.87786.1753746244122",
     "research/development-tools-hub.md",
     "research/vector-databases.md",
     "research/neural-networks.md",
@@ -210,9 +213,6 @@
     "2025-07-28.md",
     "daily/2025-07-12.md",
     "daily/2025-07-27.md",
-    "research/agent-memory-systems.md",
-    "research/reinforcement-learning-ml.md",
-    "research/reinforcement-learning-agents.md",
-    "research/reinforcement-learning.md"
+    "research/agent-memory-systems.md"
   ]
 }
