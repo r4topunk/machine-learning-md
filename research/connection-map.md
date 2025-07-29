@@ -67,6 +67,18 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Individual agent architecture and design principles forming the foundation for multi-agent coordination
   - *Connection*: Comprehensive framework covering cognitive architectures, behavioral design, and capability specialization for robust agent construction
 
+- **[[context-engineering]]** ↔ **[[agent-memory-systems]]**
+  - *Relationship*: Information architecture optimization enables sophisticated memory system implementations
+  - *Connection*: Context compression, memory hierarchies, and retrieval optimization form core components of agent memory architectures
+
+- **[[python-agent-modeling]]** ↔ **[[context-engineering]]**
+  - *Relationship*: Context engineering principles implemented through practical Python agent frameworks and patterns
+  - *Connection*: LangGraph, CrewAI, and AutoGen provide production-ready implementations of context management and memory systems
+
+- **[[python-agent-modeling]]** ↔ **[[multi-agent-orchestration]]**
+  - *Relationship*: Python frameworks enable practical implementation of multi-agent orchestration patterns
+  - *Connection*: Production frameworks bridge orchestration theory with hands-on development workflows and enterprise deployment
+
 **Framework-Theory Bridges:**
 - **[[claude-code]]** ↔ **[[multi-agent-orchestration]]**
   - *Relationship*: Development environment integration for agent system implementation
@@ -145,6 +157,8 @@ This document tracks relationships between research topics and learning pathways
 - **[[multi-agent-orchestration]]** - Advanced coordination frameworks and production deployment patterns for multi-agent systems
 - **[[agent-connection-synthesis]]** - Comprehensive synthesis connecting theory, practice, Claude Code integration, and strategic thinking for agent systems
 - **[[agent-design]]** - Complete framework for individual agent architecture including cognitive systems, behavioral design, and capability specialization
+- **[[context-engineering]]** - Systematic optimization of information flow and delivery to AI systems with compression and memory management
+- **[[python-agent-modeling]]** - Framework patterns and implementations for context-aware Python agents with sophisticated memory systems
 
 ## Future Research Gaps
 
@@ -170,4 +184,5 @@ This document tracks relationships between research topics and learning pathways
 - **2025-07-28**: Added agent connection synthesis research integrating technical protocols, Claude Code capabilities, prompting strategies, and mental models for practical implementation
 - **2025-07-28**: Added comprehensive agent design research covering architecture patterns, cognitive systems, behavioral frameworks, and capability specialization through parallel research coordination
 - **2025-07-29**: Structural improvements - consolidated reinforcement-learning-ml.md into reinforcement-learning.md, added bidirectional connections between agent-design and multi-agent-systems, established framework-theory bridges (AutoGen-agent research, Claude Code-orchestration), added agent-connection-synthesis to generative-agents connections, updated learning pathways to reflect consolidated RL structure
+- **2025-07-29**: Added context engineering and Python agent modeling research with comprehensive cross-connections to existing agent systems, memory architectures, and orchestration frameworks
 - **Future**: Expand as new research topics are added to the vault
