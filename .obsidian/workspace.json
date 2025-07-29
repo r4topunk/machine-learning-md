@@ -178,6 +178,9 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "research/dynamicare-medical-decision-agents.md",
+    "research/genomas-gene-expression-agents.md",
+    "research/aira-mle-bench-agents.md",
     "news/2025-07-29.md",
     "research/core-agent-architectures-2025-07-29.md",
     "research/agentsnet-coordination-reasoning.md",
@@ -210,9 +213,6 @@
     "research/multi-agent-orchestration.md",
     "news/2025-07-28.md",
     "daily/2025-07-28.md",
-    "2025-07-28.md",
-    "daily/2025-07-12.md",
-    "daily/2025-07-27.md",
-    "research/agent-memory-systems.md"
+    "2025-07-28.md"
   ]
 }
