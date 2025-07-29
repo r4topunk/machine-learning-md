@@ -24,6 +24,7 @@ A comprehensive guide connecting multi-agent orchestration theory with practical
 - **Development Workflows**: Coordinating code analysis, generation, testing, and deployment agents
 - **Content Creation Pipelines**: Managing research, writing, editing, and formatting agent chains
 - **Decision Support Systems**: Connecting data gathering, analysis, and recommendation agents
+- **Social Simulation Networks**: Coordinating [[generative-agents]] for complex behavioral modeling and interaction patterns
 
 ### Claude Code Specific Patterns
 - **Parallel Research Tasks**: Using multiple Task tool invocations to gather information simultaneously
@@ -48,8 +49,11 @@ A comprehensive guide connecting multi-agent orchestration theory with practical
 ## Related Topics
 - [[multi-agent-orchestration]] - foundational orchestration concepts and frameworks
 - [[multi-agent-systems]] - theoretical foundations for agent coordination
+- [[agent-design]] - individual agent architecture and coordination interface design
 - [[agent-memory-systems]] - persistent state and knowledge management across agents
+- [[generative-agents]] - social simulation frameworks and behavioral coordination patterns
 - [[workflow-automation]] - process management and task coordination principles
+- [[vector-databases]] - storage systems for shared agent knowledge and coordination state
 
 ## Learning Resources
 
@@ -229,9 +233,10 @@ Agent Connection Scenario:
 
 #### Context-Aware Coordination
 - **Situational Adaptation**: Changing coordination patterns based on context
-- **Learning from Interactions**: Agents improving coordination over time
+- **Learning from Interactions**: Agents improving coordination over time (connects to [[agent-memory-systems]] for persistent learning)
 - **Emergent Specialization**: Agents developing specialized roles organically
 - **Cross-Domain Knowledge Transfer**: Sharing insights across different problem domains
+- **Social Behavior Emergence**: Complex behavioral patterns arising from simple interaction rules (see [[generative-agents]] for implementation patterns)
 
 ## Tags
 #agent-connections #multi-agent-orchestration #claude-code #prompting-strategies #systems-thinking #orchestration-patterns

@@ -33,7 +33,7 @@ Reinforcement Learning in AI agent systems focuses on how autonomous agents lear
 - [[neural-networks]] - Deep RL architectures combining neural networks with agent-based learning
 - [[game-theory]] - Mathematical foundations for strategic interactions in multi-agent RL
 - [[distributed-systems]] - Infrastructure requirements for scalable multi-agent RL deployment
-- [[reinforcement-learning-ml]] - Traditional RL foundations extended to multi-agent contexts
+- [[reinforcement-learning]] - Traditional RL foundations extended to multi-agent contexts
 
 ## Learning Resources
 - [Multi-Agent Reinforcement Learning: A Comprehensive Survey](https://arxiv.org/abs/2312.10256) - 2024 survey bridging game theory, machine learning, and reinforcement learning for MARL with 200+ references

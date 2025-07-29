@@ -34,10 +34,11 @@ Complete framework for designing individual AI agents within multi-agent systems
 ## Recent Developments
 
 ### Cognitive Architecture Evolution (2024-2025)
-- **CoALA Framework**: Structured integration of working memory, long-term memory, and action planning
+- **CoALA Framework**: Structured integration of working memory, long-term memory, and action planning with clear boundaries between memory types (see [[agent-memory-systems]] for detailed implementation)
 - **Neuro-Symbolic Integration**: Combining neural reasoning with symbolic verification and knowledge representation
 - **Meta-Cognitive Systems**: Self-awareness, strategy selection, and performance optimization
 - **Multi-Modal Integration**: Cross-modal attention and sensory fusion for richer environmental understanding
+- **Reinforcement Learning Integration**: Value function architectures and policy optimization for adaptive behavior (connects to [[reinforcement-learning]] design principles)
 
 ### Behavioral Design Advances
 - **PersonaGym Framework**: Systematic personality consistency measurement and optimization
@@ -47,9 +48,12 @@ Complete framework for designing individual AI agents within multi-agent systems
 
 ## Related Topics
 - [[multi-agent-orchestration]] - coordination patterns and workflow management for agent teams
-- [[agent-memory-systems]] - persistent memory architectures and knowledge management
-- [[multi-agent-systems]] - foundational concepts for agent interaction and coordination
+- [[agent-memory-systems]] - persistent memory architectures and knowledge management (cognitive architecture boundaries)
+- [[multi-agent-systems]] - foundational concepts for agent interaction and coordination (coordination interfaces)
 - [[agent-connection-synthesis]] - practical implementation of agent communication and coordination
+- [[generative-agents]] - social simulation and behavioral modeling frameworks
+- [[reinforcement-learning]] - learning algorithms and value function design principles
+- [[vector-databases]] - memory storage and retrieval systems for knowledge management
 
 ## Learning Resources
 
@@ -150,6 +154,8 @@ class ResilientAgentDesign:
 ```
 
 ### Integration with Multi-Agent Systems
+Agent design must consider coordination interfaces and team dynamics from the architectural level. Modern agents require sophisticated communication protocols and distributed coordination capabilities to function effectively in multi-agent environments.
+
 ```python
 # Coordination interface design
 class AgentCoordinationInterface:
@@ -165,6 +171,12 @@ class AgentCoordinationInterface:
         capabilities = self.adapt_capabilities_for_role(optimal_role)
         return self.execute_coordinated_tasks(capabilities)
 ```
+
+**Key Design Patterns for Multi-Agent Integration:**
+- **Distributed Coordination**: Implement communication protocols that support [[multi-agent-systems]] coordination mechanisms
+- **Role Flexibility**: Design agents capable of dynamic role adaptation within team contexts
+- **Capability Advertising**: Enable runtime discovery and negotiation of agent capabilities
+- **Conflict Resolution**: Build consensus mechanisms and distributed decision-making into core architecture
 
 ## Advanced Design Considerations
 

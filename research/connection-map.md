@@ -13,6 +13,10 @@ This document tracks relationships between research topics and learning pathways
   - *Learning Path*: Study MAS foundations before implementing with AutoGen
   - *Practical Link*: AutoGen provides enterprise-ready multi-agent conversation patterns
 
+- **[[autogen-framework]]** ↔ **[[agent-design]]**
+  - *Relationship*: Framework-theory bridge connecting practical orchestration tools with foundational agent architecture
+  - *Connection*: AutoGen implementation patterns validate agent design principles in production environments
+
 **Theoretical Foundations:**
 - **[[game-theory]]** ↔ **[[multi-agent-systems]]** 
   - *Relationship*: Mathematical frameworks for strategic interaction and coordination
@@ -23,7 +27,7 @@ This document tracks relationships between research topics and learning pathways
   - *Connection*: Consensus algorithms and fault tolerance enable reliable agent interactions
 
 **AI/ML Domains:**
-- **[[reinforcement-learning-ml]]** ↔ **[[multi-agent-systems]]**
+- **[[reinforcement-learning]]** ↔ **[[multi-agent-systems]]**
   - *Relationship*: Traditional RL provides individual agent learning foundations
   - *Connection*: Core concepts like MDPs and value functions enable agent decision-making
   
@@ -55,9 +59,18 @@ This document tracks relationships between research topics and learning pathways
   - *Relationship*: Practical implementation guide connecting orchestration theory with prompting strategies and Claude Code integration
   - *Connection*: Bridges technical protocols, mental models, and strategic thinking frameworks for building real agent connection systems
 
+- **[[agent-connection-synthesis]]** ↔ **[[generative-agents]]**
+  - *Relationship*: Synthesis methodology connects to social simulation and believable behavior frameworks
+  - *Connection*: Strategic thinking and cognitive modeling approaches bridge practical implementation with human behavior simulation
+
 - **[[agent-design]]** ↔ **[[multi-agent-systems]]**
   - *Relationship*: Individual agent architecture and design principles forming the foundation for multi-agent coordination
   - *Connection*: Comprehensive framework covering cognitive architectures, behavioral design, and capability specialization for robust agent construction
+
+**Framework-Theory Bridges:**
+- **[[claude-code]]** ↔ **[[multi-agent-orchestration]]**
+  - *Relationship*: Development environment integration for agent system implementation
+  - *Connection*: Practical development workflows bridge orchestration theory with hands-on implementation patterns
 
 ### Memory Systems Hub
 **[[agent-memory-systems]]** serves as a cognitive foundation connecting multiple AI domains:
@@ -90,7 +103,7 @@ This document tracks relationships between research topics and learning pathways
 
 ### Path 2: AI/ML Integration
 1. **[[neural-networks]]** - Foundation model understanding
-2. **[[reinforcement-learning-ml]]** - Individual agent learning and decision-making foundations
+2. **[[reinforcement-learning]]** - Individual agent learning and decision-making foundations (consolidated RL theory)
 3. **[[agent-design]]** - Individual agent architecture and cognitive systems
 4. **[[reinforcement-learning-agents]]** - Multi-agent coordination and MARL
 5. **[[multi-agent-systems]]** - Complete coordinated multi-agent learning and strategic interactions
@@ -101,7 +114,7 @@ This document tracks relationships between research topics and learning pathways
 ### Path 3: Modern RL Integration  
 1. **[[neural-networks]]** - Deep learning foundations for function approximation
 2. **[[transformers]]** - Sequence modeling and attention mechanisms for RL
-3. **[[reinforcement-learning-ml]]** - Core RL algorithms enhanced with deep learning
+3. **[[reinforcement-learning]]** - Consolidated RL theory with deep learning integration
 4. **[[reinforcement-learning-agents]]** - MARL with LLM integration and enterprise applications
 5. **LLM Integration** - RLHF and advanced AI alignment techniques
 
@@ -123,7 +136,7 @@ This document tracks relationships between research topics and learning pathways
 - **Scalable Coordination**: MAS + Cloud Computing + Edge AI
 
 ## Completed Research Topics
-- **[[reinforcement-learning-ml]]** - Traditional RL concepts, applications, and foundations for machine learning
+- **[[reinforcement-learning]]** - Traditional RL concepts, applications, and foundations for machine learning
 - **[[reinforcement-learning-agents]]** - Multi-agent RL, MARL, and enterprise agent system applications
 - **[[multi-agent-systems]]** - Foundational hub for agent coordination and strategic interactions
 - **[[autogen-framework]]** - Microsoft's enterprise multi-agent orchestration platform
@@ -141,11 +154,12 @@ This document tracks relationships between research topics and learning pathways
 - **[[vector-databases]]** - Technical infrastructure for memory systems and knowledge storage
 
 ### Integration Needs
-- Connection between existing AutoGen research and broader MAS theory
+- ✅ Connection between existing AutoGen research and broader MAS theory (established through framework-theory bridges)
 - Linking neural network architectures to agent cognitive capabilities
-- Bridging enterprise frameworks with academic research foundations
+- ✅ Bridging enterprise frameworks with academic research foundations (achieved through agent-design connections)
 - Exploring transformer integration with RL for enhanced agent capabilities
-- Connecting traditional RL foundations to modern agent-based applications
+- ✅ Connecting traditional RL foundations to modern agent-based applications (consolidated into unified RL structure)
+- **Cross-Framework Connections**: AutoGen ↔ Claude Code integration patterns for multi-modal development workflows
 
 ## Update History
 - **2025-07-27**: Initial creation with multi-agent systems as foundational hub
@@ -155,4 +169,5 @@ This document tracks relationships between research topics and learning pathways
 - **2025-07-28**: Added multi-agent orchestration research connecting production frameworks with foundational MAS theory, updated learning pathways to include enterprise deployment
 - **2025-07-28**: Added agent connection synthesis research integrating technical protocols, Claude Code capabilities, prompting strategies, and mental models for practical implementation
 - **2025-07-28**: Added comprehensive agent design research covering architecture patterns, cognitive systems, behavioral frameworks, and capability specialization through parallel research coordination
+- **2025-07-29**: Structural improvements - consolidated reinforcement-learning-ml.md into reinforcement-learning.md, added bidirectional connections between agent-design and multi-agent-systems, established framework-theory bridges (AutoGen-agent research, Claude Code-orchestration), added agent-connection-synthesis to generative-agents connections, updated learning pathways to reflect consolidated RL structure
 - **Future**: Expand as new research topics are added to the vault
