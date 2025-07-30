@@ -25,6 +25,15 @@ For each item provide:
 - How it advances current understanding or capabilities
 
 Prioritize scientific knowledge and research evolution over commercial announcements or funding news.
+
+IMPORTANT: When creating news files, ALWAYS use Obsidian formatting for better readability:
+- Use ==highlights== for key metrics, performance improvements, dates, and breakthrough findings
+- Add callouts to emphasize important developments:
+  - > [!info] for significant research developments
+  - > [!warning] for concerning trends or limitations
+  - > [!note] for interesting insights or connections
+- Highlight specific numbers, percentages, model names, and benchmark results
+- Use callouts to break up content and draw attention to major breakthroughs
 ```
 
 ### Content Categories
@@ -74,6 +83,8 @@ Always include these sections when available:
 - Maintain neutral, academic tone
 - Verify claims against peer-reviewed sources when possible
 - Include experimental details and reproducibility information
+- **Use Obsidian formatting**: Apply ==highlights== and callouts consistently for better readability
+- **Emphasize key data**: Highlight performance metrics, model sizes, benchmark results, and breakthrough findings
 
 ## Example Usage
 

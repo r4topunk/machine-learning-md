@@ -24,6 +24,17 @@ Research the topic "[TOPIC_NAME]" for second brain reference:
 5. Essential learning resources (3-5 quality sources)
 
 Aim for comprehensive understanding without excessive detail. Focus on practical knowledge and meaningful connections. Avoid deep mathematical derivations or extensive subtopic branching.
+
+IMPORTANT: When creating research files, ALWAYS use Obsidian formatting for better readability:
+- Use ==highlights== for key concepts, metrics, dates, and critical information
+- Add callouts for important context:
+  - > [!warning] for risks and critical challenges
+  - > [!danger] for immediate threats or failures
+  - > [!info] for important background context
+  - > [!note] for key insights and observations
+  - > [!tip] for best practices and recommendations
+- Highlight specific numbers, percentages, and technical metrics
+- Use callouts to break up dense text and emphasize crucial points
 ```
 
 #### For AI Agents Specifically
@@ -77,20 +88,26 @@ Use the existing `/news/rules.md` template for agent-focused research.
 # [Topic Name]
 
 ## Overview
-Clear explanation of what this is and why it matters (2-3 sentences)
+Clear explanation of what this is and why it matters (2-3 sentences). Use ==highlights== for key concepts.
+
+> [!note] Key Insight
+> Add important context or insight about the topic here.
 
 ## Key Concepts
-- Core concept 1: brief explanation
-- Core concept 2: brief explanation
-- Core concept 3: brief explanation
+- **Core concept 1**: brief explanation with ==highlighted== key terms
+- **Core concept 2**: brief explanation with ==highlighted== key terms
+- **Core concept 3**: brief explanation with ==highlighted== key terms
 
 ## Applications & Use Cases
-- Primary application: context and examples
-- Secondary application: context and examples
-- Emerging use case: potential and significance
+- **Primary application**: context and examples
+- **Secondary application**: context and examples
+- **Emerging use case**: potential and significance
 
 ## Recent Developments
 Notable advances or changes in 2024-2025
+
+> [!info] Current State
+> Brief callout about the current state or recent developments.
 
 ## Related Topics
 - [[Foundational Topic]] - how it connects
