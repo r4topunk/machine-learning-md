@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c073ad28ea76117",
+  "active": "de40d9512c0e0c68",
   "lastOpenFiles": [
+    "news/2025-07-30.md",
+    "research/retrieval-augmented-generation.md",
     "research/agi-vs-asi-differences.md",
     "research/agi-vs-asi-analysis.md",
     "research/artificial-narrow-intelligence.md",
@@ -211,8 +213,6 @@
     "research/multi-agent-systems.md.tmp.36605.1753747736809",
     "analysis_report.md",
     "research/reinforcement-learning.md.tmp.87786.1753746316582",
-    "research/neural-networks.md.tmp.87786.1753746296088",
-    "research/development-tools-hub.md",
-    "research/vector-databases.md"
+    "research/neural-networks.md.tmp.87786.1753746296088"
   ]
 }
