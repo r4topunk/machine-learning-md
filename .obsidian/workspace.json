@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/retrieval-augmented-generation.md",
+                "file": "news/2025-07-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "retrieval-augmented-generation"
+              "title": "2025-07-30"
             }
           }
         ]
@@ -178,9 +178,9 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "research/retrieval-augmented-generation.md",
     "research/artificial-narrow-intelligence.md",
     "news/2025-07-30.md",
-    "research/retrieval-augmented-generation.md",
     "research/agi-vs-asi-differences.md",
     "research/agi-vs-asi-analysis.md",
     "research/rules.md",
