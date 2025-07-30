@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/rules.md",
+                "file": "research/artificial-narrow-intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rules"
+              "title": "artificial-narrow-intelligence"
             }
           }
         ]
@@ -178,6 +178,10 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "research/agi-vs-asi-differences.md",
+    "research/agi-vs-asi-analysis.md",
+    "research/artificial-narrow-intelligence.md",
+    "research/rules.md",
     "research/asi-architecture.md",
     "research/asi-safety-frameworks.md",
     "research/asi-safety-frameworks-2025.md",
@@ -209,10 +213,6 @@
     "research/reinforcement-learning.md.tmp.87786.1753746316582",
     "research/neural-networks.md.tmp.87786.1753746296088",
     "research/development-tools-hub.md",
-    "research/vector-databases.md",
-    "research/neural-networks.md",
-    "research/agent-design.md",
-    "research/agent-connection-synthesis.md",
-    "research/multi-agent-orchestration.md"
+    "research/vector-databases.md"
   ]
 }
