@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/advanced-event-driven-architecture.md",
+                "file": "research/crewai-comprehensive-research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "advanced-event-driven-architecture"
+              "title": "crewai-comprehensive-research"
             }
           }
         ]
@@ -178,9 +178,13 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
-    "research/retrieval-augmented-generation.md",
-    "research/advanced-event-driven-architecture.md",
+    "research/crewai-competitive-landscape.md",
+    "research/crewai-framework.md",
+    "research/crewai-comprehensive-research.md",
     "research/treequest-framework.md",
+    "research/advanced-event-driven-architecture.md",
+    "test_hook_input.json",
+    "research/retrieval-augmented-generation.md",
     "news/2025-07-30.md",
     "daily/2025-07-31.md",
     "daily/2025-07-30.md",
@@ -205,14 +209,10 @@
     "news/2025-07-29.md.tmp.27784.1753799345045",
     "news/2025-07-27.md",
     "research/python-agent-modeling.md",
-    "daily/2025-07-29.md",
-    "news/2025-07-29-links-tracking.md",
     "research/connection-map.md.tmp.36605.1753790636910",
-    "research/context-engineering.md",
     "research/connection-map.md.tmp.36605.1753749284628",
     "research/connection-map.md.tmp.36605.1753749270040",
     "research/context-engineering.md.tmp.36605.1753749220921",
-    "research/multi-agent-systems.md.tmp.36605.1753747736809",
-    "research/reinforcement-learning.md.tmp.87786.1753746316582"
+    "research/multi-agent-systems.md.tmp.36605.1753747736809"
   ]
 }
