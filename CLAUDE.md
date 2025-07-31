@@ -77,5 +77,35 @@ Based on existing notes, the vault covers:
 
 ## Guidelines and Rules
 
+### **CRITICAL: Rules.md Check Requirement**
+
+**BEFORE writing or creating any content in ANY folder, you MUST:**
+1. **Check for rules.md**: Always look for a `rules.md` file in the target folder first
+2. **Read and Follow**: If a `rules.md` exists, read it completely and follow ALL formatting, content, and procedural requirements specified
+3. **Apply Formatting**: Ensure all output matches the exact formatting requirements (Obsidian callouts, highlights, structure, etc.)
+4. **Validate Compliance**: Verify your output meets all rules before finalizing
+
+**This applies to ALL agents and ALL folders including:**
+- `/news/` - Follow `/news/rules.md` for formatting, callouts, highlights, and content structure
+- `/research/` - Follow `/research/rules.md` for methodology and documentation format  
+- `/daily/` - Check for any folder-specific rules
+- Any other directories - Always check for local rules before proceeding
+
+### Content Linking and Duplication Prevention
+
+**ALWAYS prioritize linking over duplication:**
+1. **Search First**: Before creating new content, search existing vault for related topics using Grep/Glob tools
+2. **Link Instead of Duplicate**: Use `[[note-name]]` or `[[folder/note-name]]` to reference existing content rather than rewriting it
+3. **Cross-Reference**: When mentioning topics covered elsewhere, always link to the existing detailed coverage
+4. **Build Connections**: Use Obsidian's linking system to create knowledge networks rather than isolated content
+5. **Reference Existing Research**: Link to existing research files using `[[research/topic-name]]` format when relevant
+
+**Examples of good linking practices:**
+- Instead of rewriting transformer details: "For transformer architecture details, see [[research/transformer-architectures]]"
+- Reference related daily notes: "Similar developments covered in [[daily/2025-07-30]]"
+- Link to comprehensive analyses: "Full analysis available at [[research/multi-agent-systems]]"
+
+### Folder-Specific Rules
 - Always create news files inside the news folder
 - Read and follow the rules specified in `/news/rules.md` when working with news content
+- Use ml-agent-researcher and obsidian-knowledge-curator agents proactively when their capabilities match the task requirements

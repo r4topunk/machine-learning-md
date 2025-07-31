@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/uv-python-package-manager.md",
+                "file": "news/2025-07-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uv-python-package-manager"
+              "title": "2025-07-31"
             }
           }
         ]
@@ -178,23 +178,25 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
-    "research/crewai-comprehensive-research.md",
+    "news/2025-07-30.md",
+    "news/2025-07-31.md",
+    "news/rules.md",
+    "research/rules.md",
     "research/crewai-framework.md",
     "research/uv-python-package-manager.md",
+    "research/crewai-comprehensive-research.md",
     "crewai-knowledge-vault-implementation-plan.md",
     "research/crewai-competitive-landscape.md",
     "research/treequest-framework.md",
     "research/advanced-event-driven-architecture.md",
     "test_hook_input.json",
     "research/retrieval-augmented-generation.md",
-    "news/2025-07-30.md",
     "daily/2025-07-31.md",
     "daily/2025-07-30.md",
     "news/2025-07-30.md.tmp.69485.1753964437836",
     "research/artificial-narrow-intelligence.md",
     "research/agi-vs-asi-differences.md",
     "research/agi-vs-asi-analysis.md",
-    "research/rules.md",
     "research/asi-architecture.md",
     "research/asi-safety-frameworks.md",
     "research/asi-safety-frameworks-2025.md",
@@ -204,8 +206,6 @@
     "research/agentsnet-coordination-reasoning.md",
     "news/2025-07-29.md",
     "research/core-agent-architectures-2025-07-29.md",
-    "research/blackboard-architecture-llm-agents.md",
-    "research/sciborg-state-memory-agents.md",
     "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
     "news/2025-07-29.md.tmp.27784.1753799593471",
     "news/2025-07-29.md.tmp.27784.1753799345045",
