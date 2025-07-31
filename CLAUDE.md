@@ -74,3 +74,8 @@ Based on existing notes, the vault covers:
 - **Agent Systems**: Multi-agent workflows, memory systems
 - **Educational Resources**: Tutorial videos, research papers
 - **Development Frameworks**: Various ML/AI libraries and tools
+
+## Guidelines and Rules
+
+- Always create news files inside the news folder
+- Read and follow the rules specified in `/news/rules.md` when working with news content
