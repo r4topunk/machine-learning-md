@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-07-31.md",
+                "file": "news/2025-08-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "2025-08-02"
             }
           }
         ]
@@ -178,9 +178,11 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "news/2025-08-01.md",
+    "news/2025-08-02.md",
+    "news/2025-07-31.md",
     "research/openai-agents-sdk.md",
     "news/2025-07-30.md",
-    "news/2025-07-31.md",
     "news/rules.md",
     "research/rules.md",
     "research/crewai-framework.md",
@@ -204,8 +206,6 @@
     "research/dynamicare-medical-decision-agents.md",
     "research/genomas-gene-expression-agents.md",
     "research/aira-mle-bench-agents.md",
-    "research/agentsnet-coordination-reasoning.md",
-    "news/2025-07-29.md",
     "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
     "news/2025-07-29.md.tmp.27784.1753799593471",
     "news/2025-07-29.md.tmp.27784.1753799345045",
