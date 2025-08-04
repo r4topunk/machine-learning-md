@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-08-02.md",
+                "file": "news/2025-08-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-02"
+              "title": "2025-08-03"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
-    "news/2025-08-01.md",
+    "news/2025-08-03.md.tmp.2331.1754275059656",
     "news/2025-08-02.md",
+    "news/2025-08-03.md",
+    "news/2025-08-01.md",
     "news/2025-07-31.md",
     "research/openai-agents-sdk.md",
     "news/2025-07-30.md",
@@ -204,8 +206,6 @@
     "research/asi-safety-frameworks.md",
     "research/asi-safety-frameworks-2025.md",
     "research/dynamicare-medical-decision-agents.md",
-    "research/genomas-gene-expression-agents.md",
-    "research/aira-mle-bench-agents.md",
     "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
     "news/2025-07-29.md.tmp.27784.1753799593471",
     "news/2025-07-29.md.tmp.27784.1753799345045",
