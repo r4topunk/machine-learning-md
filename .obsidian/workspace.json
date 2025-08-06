@@ -173,13 +173,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "631a19c1553aae64",
   "lastOpenFiles": [
-    "Untitled.md",
     "daily/2025-08-06.md",
+    "Untitled.md",
     "news/2025-08-05.md",
     "research/openai-open-source-initiatives.md",
     "research/ai-agents-july-2025-comprehensive-analysis.md",
