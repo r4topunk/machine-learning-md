@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/openai-agents-sdk.md",
-                "mode": "source",
+                "file": "research/ai-agents-july-2025-comprehensive-analysis.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openai-agents-sdk"
+              "title": "ai-agents-july-2025-comprehensive-analysis"
             }
           }
         ]
@@ -178,13 +178,24 @@
   },
   "active": "0c073ad28ea76117",
   "lastOpenFiles": [
+    "research/ai-business-strategic-developments-july-2025.md",
+    "news/rules.md.tmp.42588.1754441757168",
+    "news/2025-08-05.md.tmp.42588.1754441686430",
+    "news/2025-08-05.md.tmp.42588.1754441679716",
+    "research/ai-agents-july-2025-comprehensive-analysis.md",
+    "news/2025-08-05.md",
+    "news/2025-08-05.md.tmp.42588.1754441645481",
+    "daily/2025-08-06.md",
     "research/google-ai-co-scientist.md",
+    "news/2025-07-04.md",
+    "news/2025-08-04.md",
+    "news/2025-07-05.md",
+    "research/openai-agents-sdk.md",
+    "news/2025-08-02.md",
     "research/uv-python-package-manager.md",
     "research/crewai-framework.md",
-    "research/openai-agents-sdk.md",
     "news/2025-08-03.md",
     "news/2025-08-03.md.tmp.2331.1754275059656",
-    "news/2025-08-02.md",
     "news/2025-08-01.md",
     "news/2025-07-31.md",
     "news/2025-07-30.md",
@@ -198,21 +209,9 @@
     "test_hook_input.json",
     "research/retrieval-augmented-generation.md",
     "daily/2025-07-31.md",
-    "daily/2025-07-30.md",
     "news/2025-07-30.md.tmp.69485.1753964437836",
-    "research/artificial-narrow-intelligence.md",
-    "research/agi-vs-asi-differences.md",
-    "research/agi-vs-asi-analysis.md",
-    "research/asi-architecture.md",
-    "research/asi-safety-frameworks.md",
-    "research/asi-safety-frameworks-2025.md",
-    "research/dynamicare-medical-decision-agents.md",
     "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
     "news/2025-07-29.md.tmp.27784.1753799593471",
-    "news/2025-07-29.md.tmp.27784.1753799345045",
-    "research/connection-map.md.tmp.36605.1753790636910",
-    "research/connection-map.md.tmp.36605.1753749284628",
-    "research/connection-map.md.tmp.36605.1753749270040",
-    "research/context-engineering.md.tmp.36605.1753749220921"
+    "news/2025-07-29.md.tmp.27784.1753799345045"
   ]
 }

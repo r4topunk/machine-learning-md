@@ -19,7 +19,7 @@ Search for recent AI agents research and scientific developments from the past w
 
 For each item provide:
 - Title and clear description focusing on the scientific contribution (2-3 sentences)
-- Source link and publication (prefer arxiv, academic journals, research labs)
+- **Source links**: ALWAYS include clickable external links to original research papers, official announcements, or press releases
 - Scientific significance and implications for the field
 - Key technical details, metrics, or experimental results
 - How it advances current understanding or capabilities
@@ -72,11 +72,24 @@ Always include these sections when available:
 ### Integration Workflow
 1. Run research agent with current date parameters
 2. Create dated news file in `/news/` folder with full research output
-3. Extract key highlights for daily note update
-4. Add concise summary to main daily note under "## AI Agents News - [DATE]" section
+3. **ADD EXTERNAL REFERENCE LINKS**: Research and include clickable links to primary sources for each major topic
+4. Create comprehensive "## Read More" section with organized external links
+5. Extract key highlights for daily note update
+6. Add concise summary to main daily note under "## AI Agents News - [DATE]" section
+
+### External Reference Links Requirements
+- **MANDATORY**: Every major research topic must include a `**Source**:` line with external links
+- Use format: `**Source**: [Link Title](URL) | [Additional Link](URL)`
+- Prioritize: Original research papers, official institutional announcements, peer-reviewed publications
+- Include comprehensive "## Read More" section with categorized external links:
+  - Primary Research Sources
+  - Academic Conferences and Workshops
+  - Market Research and Analysis
+  - Technical Research Papers
 
 ### Quality Standards
 - Focus on scientific and educational value
+- **ALWAYS include external reference links**: Each major topic MUST have clickable links to primary sources (research papers, official announcements, press releases)
 - Include source links to papers, arxiv, research labs
 - Prioritize scientific discoveries over commercial developments
 - Emphasize technical depth and research methodology
