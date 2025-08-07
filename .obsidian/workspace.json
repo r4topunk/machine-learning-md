@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-06.md",
-                "mode": "source",
+                "file": "news/2025-08-06.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,6 +180,7 @@
   "active": "631a19c1553aae64",
   "lastOpenFiles": [
     "daily/2025-08-06.md",
+    "news/2025-08-06.md",
     "Untitled.md",
     "news/2025-08-05.md",
     "research/openai-open-source-initiatives.md",
@@ -211,7 +212,6 @@
     "research/treequest-framework.md",
     "research/advanced-event-driven-architecture.md",
     "test_hook_input.json",
-    "research/retrieval-augmented-generation.md",
     "news/2025-07-30.md.tmp.69485.1753964437836",
     "research/sciborg-state-memory-agents.md.tmp.27784.1753802534752",
     "news/2025-07-29.md.tmp.27784.1753799593471"
