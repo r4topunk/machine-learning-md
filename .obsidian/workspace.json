@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-08-07.md",
+                "file": "research/post-gpt3-human-societal-transformation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-07"
+              "title": "post-gpt3-human-societal-transformation"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "631a19c1553aae64",
   "lastOpenFiles": [
+    "news/2025-08-07.md",
+    "research/post-gpt3-human-societal-transformation.md",
     "daily/2025-08-07.md",
     "research/model-context-protocol-multi-agent-memory.md",
-    "news/2025-08-07.md",
     "research/model-context-protocol-multi-agent-memory.md.tmp.1350.1754532587515",
     "research/agenti-graph.md.tmp.3207.1754530591407",
     "research/agent-laboratory.md",
@@ -212,7 +213,6 @@
     "news/2025-08-01.md",
     "news/2025-07-31.md",
     "news/2025-07-30.md",
-    "news/rules.md",
     "test_hook_input.json",
     "news/2025-07-30.md.tmp.69485.1753964437836"
   ]
