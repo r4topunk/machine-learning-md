@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.51103591918945
+    "width": 313.51103591918945
   },
   "right": {
     "id": "844fb01d60b712bb",
@@ -177,8 +177,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "631a19c1553aae64",
+  "active": "de40d9512c0e0c68",
   "lastOpenFiles": [
+    "news/rules.md.tmp.10717.1754616050557",
     "news/2025-08-07.md",
     "research/post-gpt3-human-societal-transformation.md",
     "daily/2025-08-07.md",
@@ -212,7 +213,6 @@
     "news/2025-08-03.md.tmp.2331.1754275059656",
     "news/2025-08-01.md",
     "news/2025-07-31.md",
-    "news/2025-07-30.md",
     "test_hook_input.json",
     "news/2025-07-30.md.tmp.69485.1753964437836"
   ]

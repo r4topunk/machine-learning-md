@@ -9,22 +9,23 @@ This document provides standardized instructions for using the ml-agent-research
 Use the ml-agent-researcher with the following prompt template:
 
 ```
-Search for recent AI agents research and scientific developments from the past week (around [DATE_RANGE]). Find 5-8 significant scientific advances covering:
+Search for recent AI agents research and scientific developments from the past week (around [DATE_RANGE]). Find 5-8 significant advances covering:
 
 1. New research papers and studies with novel findings
-2. Technical breakthroughs and algorithmic advances
-3. Framework updates with scientific improvements
-4. Experimental results and benchmark achievements
-5. Academic collaborations and research insights
+2. Major model releases and frontier AI announcements (GPT, Claude, Gemini, etc.)
+3. Technical breakthroughs and algorithmic advances
+4. Framework updates with scientific improvements
+5. Experimental results and benchmark achievements
+6. Academic collaborations and research insights
 
 For each item provide:
-- Title and clear description focusing on the scientific contribution (2-3 sentences)
+- Title and clear description focusing on the scientific/technical contribution (2-3 sentences)
 - **Source links**: ALWAYS include clickable external links to original research papers, official announcements, or press releases
 - Scientific significance and implications for the field
 - Key technical details, metrics, or experimental results
 - How it advances current understanding or capabilities
 
-Prioritize scientific knowledge and research evolution over commercial announcements or funding news.
+Prioritize scientific knowledge and significant technical advances. Include major industry model releases that represent meaningful capability improvements, while avoiding routine funding announcements or minor commercial updates.
 
 IMPORTANT: When creating news files, ALWAYS use Obsidian formatting for better readability:
 - Use ==highlights== for key metrics, performance improvements, dates, and breakthrough findings
@@ -44,22 +45,28 @@ Always include these sections when available:
    - Scientific discoveries and insights  
    - Performance benchmarks and comparisons
 
-2. **Technical Advances**
+2. **Major Model Releases**
+   - Frontier model launches (GPT, Claude, Gemini, LLaMA, etc.)
+   - Significant capability improvements and technical advances
+   - Performance benchmarks and architectural innovations
+   - New model variants and specialized versions
+
+3. **Technical Advances**
    - New methodologies and techniques
    - Architectural innovations
    - Experimental validations
 
-3. **Academic Publications**
+4. **Academic Publications**
    - Recent papers from top venues (NeurIPS, ICML, ICLR, etc.)
    - Preprints with significant contributions
    - Survey papers and meta-analyses
 
-4. **Framework/Tool Evolution**
+5. **Framework/Tool Evolution**
    - Scientific improvements in existing tools
    - Open-source research contributions
    - Benchmark datasets and evaluation methods
 
-5. **Knowledge Synthesis**
+6. **Knowledge Synthesis**
    - Cross-disciplinary connections
    - Theoretical insights and proofs
    - Replication studies and negative results
@@ -90,8 +97,9 @@ Always include these sections when available:
 ### Quality Standards
 - Focus on scientific and educational value
 - **ALWAYS include external reference links**: Each major topic MUST have clickable links to primary sources (research papers, official announcements, press releases)
-- Include source links to papers, arxiv, research labs
-- Prioritize scientific discoveries over commercial developments
+- Include source links to papers, arxiv, research labs, and official company blogs
+- Balance academic research with significant industry developments that advance the field
+- Include major model releases from OpenAI, Anthropic, Google DeepMind, Meta AI, etc.
 - Emphasize technical depth and research methodology
 - Maintain neutral, academic tone
 - Verify claims against peer-reviewed sources when possible
