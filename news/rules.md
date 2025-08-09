@@ -9,14 +9,21 @@ This document provides standardized instructions for using the ml-agent-research
 Use the ml-agent-researcher with the following prompt template:
 
 ```
+IMPORTANT: First check recent news files (last 2-3 days) to identify already covered topics and avoid duplicates.
+
 Search for recent AI agents research and scientific developments from the past week (around [DATE_RANGE]). Find 5-8 significant advances covering:
 
 1. New research papers and studies with novel findings
-2. Major model releases and frontier AI announcements (GPT, Claude, Gemini, etc.)
+2. Major model releases and frontier AI announcements (GPT, Claude, Gemini, etc.) - ONLY if not already covered in recent news
 3. Technical breakthroughs and algorithmic advances
 4. Framework updates with scientific improvements
 5. Experimental results and benchmark achievements
 6. Academic collaborations and research insights
+
+DUPLICATE PREVENTION:
+- AVOID repeating topics already covered in recent news files unless there are significant NEW developments
+- If covering a previously mentioned topic, clearly state what's NEW and use "UPDATE:" prefix
+- Focus on fresh developments, not previously reported content
 
 For each item provide:
 - Title and clear description focusing on the scientific/technical contribution (2-3 sentences)
@@ -77,12 +84,20 @@ Always include these sections when available:
 - Mirror the same date as the daily note being updated
 
 ### Integration Workflow
-1. Run research agent with current date parameters
-2. Create dated news file in `/news/` folder with full research output
-3. **ADD EXTERNAL REFERENCE LINKS**: Research and include clickable links to primary sources for each major topic
-4. Create comprehensive "## Read More" section with organized external links
-5. Extract key highlights for daily note update
-6. Add concise summary to main daily note under "## AI Agents News - [DATE]" section
+1. **CHECK FOR DUPLICATES FIRST**: Read the 2-3 most recent news files to identify what has already been covered
+2. Run research agent with current date parameters, explicitly instructing to avoid repeating recently covered topics
+3. Create dated news file in `/news/` folder with full research output, focusing on NEW developments only
+4. **ADD EXTERNAL REFERENCE LINKS**: Research and include clickable links to primary sources for each major topic
+5. Create comprehensive "## Read More" section with organized external links
+6. Extract key highlights for daily note update
+7. Add concise summary to main daily note under "## AI Agents News - [DATE]" section
+
+### Duplicate Prevention Rules
+- **MANDATORY**: Always check the last 2-3 news files before creating new content
+- **Only repeat topics if**: There are significant NEW updates, developments, or announcements (e.g., new capabilities, major updates, different benchmark results)
+- **For repeated topics**: Use format like "UPDATE: [Topic] - [New Development]" and clearly state what's new
+- **Avoid repeating**: Same model releases, identical research papers, or previously covered developments unless there are major updates
+- **Focus on**: Fresh research papers, new experimental results, recent conference presentations, latest industry developments
 
 ### External Reference Links Requirements
 - **MANDATORY**: Every major research topic must include a `**Source**:` line with external links
