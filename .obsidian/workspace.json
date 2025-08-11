@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-08-08.md",
+                "file": "news/2025-08-10.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-08"
+              "title": "2025-08-10"
             }
           }
         ]
@@ -177,11 +177,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "631a19c1553aae64",
+  "active": "de40d9512c0e0c68",
   "lastOpenFiles": [
+    "news/rules.md.tmp.68078.1754873894035",
+    "news/rules.md.tmp.68078.1754873884319",
+    "news/rules.md.tmp.68078.1754873870987",
+    "daily/2025-08-10.md",
+    "daily/2025-08-10.md.tmp.68078.1754873122637",
+    "news/2025-08-08.md",
     "news/rules.md.tmp.10717.1754702425481",
     "news/2025-08-07.md",
-    "news/2025-08-08.md",
     "research/post-gpt3-human-societal-transformation.md",
     "news/rules.md.tmp.10717.1754616050557",
     "daily/2025-08-07.md",
@@ -201,8 +206,6 @@
     "research/ai-business-strategic-developments-july-2025.md",
     "news/rules.md.tmp.42588.1754441757168",
     "news/2025-08-05.md.tmp.42588.1754441686430",
-    "news/2025-08-05.md.tmp.42588.1754441679716",
-    "news/2025-08-05.md.tmp.42588.1754441645481",
     "research/google-ai-co-scientist.md",
     "news/2025-07-04.md",
     "news/2025-08-04.md",
@@ -211,9 +214,6 @@
     "news/2025-08-02.md",
     "research/uv-python-package-manager.md",
     "research/crewai-framework.md",
-    "news/2025-08-03.md",
-    "news/2025-08-03.md.tmp.2331.1754275059656",
-    "news/2025-08-01.md",
-    "test_hook_input.json"
+    "news/2025-08-03.md"
   ]
 }

@@ -9,9 +9,15 @@ This document provides standardized instructions for using the ml-agent-research
 Use the ml-agent-researcher with the following prompt template:
 
 ```
+CRITICAL DATE VERIFICATION: 
+- ONLY search for developments that occurred SPECIFICALLY on [EXACT_DATE]
+- Verify publication dates, announcement dates, and release dates match the target date
+- If no major developments occurred on the specific date, acknowledge this instead of using content from other days
+- Weekend dates (Saturday/Sunday) typically have fewer announcements - this is normal and should be documented
+
 IMPORTANT: First check recent news files (last 2-3 days) to identify already covered topics and avoid duplicates.
 
-Search for recent AI agents research and scientific developments from the past week (around [DATE_RANGE]). Find 5-8 significant advances covering:
+Search for AI agents research and scientific developments that occurred SPECIFICALLY on [EXACT_DATE]. Find developments covering:
 
 1. New research papers and studies with novel findings
 2. Major model releases and frontier AI announcements (GPT, Claude, Gemini, etc.) - ONLY if not already covered in recent news
@@ -20,10 +26,16 @@ Search for recent AI agents research and scientific developments from the past w
 5. Experimental results and benchmark achievements
 6. Academic collaborations and research insights
 
+DATE-SPECIFIC REQUIREMENTS:
+- VERIFY all content has publication/announcement dates matching [EXACT_DATE]
+- Include timestamps or date stamps when available from sources
+- If no significant developments occurred on [EXACT_DATE], create a status update acknowledging this
+- For weekend dates, explain typical research publication patterns
+
 DUPLICATE PREVENTION:
 - AVOID repeating topics already covered in recent news files unless there are significant NEW developments
 - If covering a previously mentioned topic, clearly state what's NEW and use "UPDATE:" prefix
-- Focus on fresh developments, not previously reported content
+- Focus on developments from [EXACT_DATE] only, not previously reported content
 
 For each item provide:
 - Title and clear description focusing on the scientific/technical contribution (2-3 sentences)
@@ -85,12 +97,14 @@ Always include these sections when available:
 
 ### Integration Workflow
 1. **CHECK FOR DUPLICATES FIRST**: Read the 2-3 most recent news files to identify what has already been covered
-2. Run research agent with current date parameters, explicitly instructing to avoid repeating recently covered topics
-3. Create dated news file in `/news/` folder with full research output, focusing on NEW developments only
-4. **ADD EXTERNAL REFERENCE LINKS**: Research and include clickable links to primary sources for each major topic
-5. Create comprehensive "## Read More" section with organized external links
-6. Extract key highlights for daily note update
-7. Add concise summary to main daily note under "## AI Agents News - [DATE]" section
+2. **DATE VERIFICATION**: Confirm the exact date you're researching (e.g., "August 10, 2025")
+3. Run research agent with EXACT DATE parameters, explicitly instructing to find only developments from that specific date
+4. **VALIDATE DATES**: Verify all content found actually occurred on the target date
+5. Create dated news file in `/news/` folder with date-verified content OR acknowledge no major developments occurred
+6. **ADD EXTERNAL REFERENCE LINKS**: Research and include clickable links to primary sources for each major topic
+7. Create comprehensive "## Read More" section with organized external links
+8. Extract key highlights for daily note update
+9. Add concise summary to main daily note under "## AI Agents News - [DATE]" section
 
 ### Duplicate Prevention Rules
 - **MANDATORY**: Always check the last 2-3 news files before creating new content
@@ -122,10 +136,36 @@ Always include these sections when available:
 - **Use Obsidian formatting**: Apply ==highlights== and callouts consistently for better readability
 - **Emphasize key data**: Highlight performance metrics, model sizes, benchmark results, and breakthrough findings
 
+## Date-Specific Research Template
+
+When creating news for a specific date (e.g., August 10, 2025), use this exact prompt structure:
+
+```
+CRITICAL: Search ONLY for developments that occurred specifically on [EXACT DATE - e.g., August 10, 2025].
+
+VERIFICATION REQUIREMENTS:
+- Verify publication dates, announcement dates, and release dates match August 10, 2025
+- Include timestamps when available
+- If no major developments occurred on August 10, 2025, document this as a normal research cycle pattern
+- Weekend dates typically have fewer research announcements
+
+[Continue with standard search parameters but emphasize date verification]
+```
+
 ## Example Usage
 
 To update today's news:
-1. Use Task tool with ml-agent-researcher subagent
-2. Apply search template with current date range
-3. Save full output to `news/YYYY-MM-DD.md`
-4. Extract highlights for daily note integration
+1. **CONFIRM TARGET DATE**: Verify exact date you're researching
+2. Use Task tool with ml-agent-researcher subagent
+3. Apply date-specific search template with EXACT DATE verification
+4. Save date-verified output to `news/YYYY-MM-DD.md`
+5. Extract highlights for daily note integration
+
+## Handling "No News" Days
+
+When no major developments occurred on a specific date:
+1. Create news file acknowledging this
+2. Explain research publication patterns (weekends, holidays, etc.)
+3. Reference recent major developments for context
+4. Note anticipated upcoming developments
+5. Update daily note with accurate "limited developments" summary
