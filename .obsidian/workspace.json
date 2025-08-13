@@ -11,17 +11,28 @@
             "id": "631a19c1553aae64",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b8e05248953240ef",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "news/2025-08-10.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2025-08-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,17 +188,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "de40d9512c0e0c68",
+  "active": "b8e05248953240ef",
   "lastOpenFiles": [
+    "news/2025-08-11.md",
+    "research/post-gpt3-human-societal-transformation.md",
+    "news/2025-08-08.md",
+    "news/2025-08-10.md",
+    "CLAUDE.md",
     "news/rules.md.tmp.68078.1754873894035",
     "news/rules.md.tmp.68078.1754873884319",
     "news/rules.md.tmp.68078.1754873870987",
     "daily/2025-08-10.md",
     "daily/2025-08-10.md.tmp.68078.1754873122637",
-    "news/2025-08-08.md",
     "news/rules.md.tmp.10717.1754702425481",
     "news/2025-08-07.md",
-    "research/post-gpt3-human-societal-transformation.md",
     "news/rules.md.tmp.10717.1754616050557",
     "daily/2025-08-07.md",
     "research/model-context-protocol-multi-agent-memory.md",
@@ -205,15 +219,12 @@
     "daily/2025-08-06.md.tmp.52876.1754444001072",
     "research/ai-business-strategic-developments-july-2025.md",
     "news/rules.md.tmp.42588.1754441757168",
-    "news/2025-08-05.md.tmp.42588.1754441686430",
     "research/google-ai-co-scientist.md",
     "news/2025-07-04.md",
     "news/2025-08-04.md",
     "news/2025-07-05.md",
     "research/openai-agents-sdk.md",
     "news/2025-08-02.md",
-    "research/uv-python-package-manager.md",
-    "research/crewai-framework.md",
-    "news/2025-08-03.md"
+    "research/uv-python-package-manager.md"
   ]
 }
