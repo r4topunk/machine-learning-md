@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/2025-08-10.md",
+                "file": "news/2025-08-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-10"
+              "title": "2025-08-11"
             }
           }
         ],
@@ -190,10 +190,10 @@
   },
   "active": "b8e05248953240ef",
   "lastOpenFiles": [
+    "news/2025-08-10.md",
     "news/2025-08-11.md",
     "research/post-gpt3-human-societal-transformation.md",
     "news/2025-08-08.md",
-    "news/2025-08-10.md",
     "CLAUDE.md",
     "news/rules.md.tmp.68078.1754873894035",
     "news/rules.md.tmp.68078.1754873884319",
