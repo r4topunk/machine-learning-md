@@ -188,8 +188,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b8e05248953240ef",
+  "active": "de40d9512c0e0c68",
   "lastOpenFiles": [
+    "daily/2025-08-15.md",
+    "daily/2025-08-15.md.tmp.88029.1755323497396",
+    "news/2025-08-15.md",
     "news/2025-08-13.md",
     "daily/2025-08-14.md",
     "daily/2025-08-14.md.tmp.88029.1755223219278",
@@ -212,7 +215,6 @@
     "daily/2025-08-07.md",
     "research/model-context-protocol-multi-agent-memory.md",
     "research/model-context-protocol-multi-agent-memory.md.tmp.1350.1754532587515",
-    "research/agenti-graph.md.tmp.3207.1754530591407",
     "research/agent-laboratory.md",
     "research/agenti-graph.md",
     "news/2025-08-06.md",
@@ -223,8 +225,6 @@
     "research/openai-open-source-initiatives.md",
     "research/ai-agents-july-2025-comprehensive-analysis.md",
     "research/ai-business-strategic-developments-july-2025.md",
-    "research/google-ai-co-scientist.md",
-    "news/2025-07-04.md",
-    "news/2025-08-04.md"
+    "research/google-ai-co-scientist.md"
   ]
 }
